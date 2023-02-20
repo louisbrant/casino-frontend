@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/LobbyMain08_kaiyuan.fire",orientation:"landscape",jsList:[],bundleVers:{internal:"d17e2",resources:"1b0f5",main:"c4cfd"}};
