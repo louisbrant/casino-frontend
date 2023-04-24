@@ -19,7 +19,8 @@ try { query = getQueryParams(document.location.search); } catch (e) { }
 // =========================================================
 
 window._EXTERNAL_CONFIGS = {
-   // externalServerIP: 'http://167.94.7.237:13000',    // comment out this line to switch to default server at baohule.com
+   externalServerIP: 'http://localhost:13000',    // comment out this line to switch to default URL at server.baohule.com
+   externalGameIP: 'http://localhost:13001',    // comment out this line to switch to default URL at broadcast.baohule.com
    isEmbeddedToWeb: false,
    autoLoadGameSceneName: query.gameName,      // "game_baijialeQZ" or "game_bairenniuniu"
    autoLoginCredential: {
